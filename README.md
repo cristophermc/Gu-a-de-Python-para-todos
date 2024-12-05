@@ -1,4 +1,4 @@
-# Guía de Python para todos
+# Agarrando a la pitón por el cuello
 Guía de Python básico - avanzado
 
 Esta guía de Python está enfocada para un nivel de usuario básico y abarca un aprendizaje progresivo a la hora de asentar las bases en el lenguaje de programación Python. Esta guía tiene como propósito ayudar a cualquier otro usuario que busque comenzar en este lenguaje de programación, y por otra parte, también me permite como creador ayudarme a estudiar el módulo de Programación en el CFGS DAM. 
@@ -13,7 +13,7 @@ Esta guía ofrece:
 
 ## ¿Debo tener conocimientos previos para comenzar a leer esta guía?
 
-No, para nada. De hecho, tiene precisamente el titulo de "Guía de Python para todos" porque precisamente, es para todos. Una vez, durante mis clases, uno de mis compañeros exclamó: ¡Ños, cogí a la pitón por el cuello! Y eso es lo que precisamente se quiere conseguir en esta recopilación de notas y ejercicios, que todo el mundo pueda coger a la pitón por el cuello y superar todas las dificultades que este sencillo lenguaje de programación nos puede poner en el camino :P.
+No, para nada. De hecho, tiene precisamente el titulo de "Agarrando a la pitón por el cuello" porque precisamente, es para todos. Una vez, durante mis clases, uno de mis compañeros exclamó: ¡Ños, agarré a la pitón por el cuello! Y eso es lo que precisamente se quiere conseguir en esta recopilación de notas y ejercicios, que todo el mundo pueda agarrar a la pitón por el cuello y superar todas las dificultades que este sencillo lenguaje de programación nos puede poner en el camino :P.
 
 ### Conclusión
 
