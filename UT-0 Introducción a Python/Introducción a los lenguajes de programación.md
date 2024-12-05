@@ -1,4 +1,4 @@
-#¿Qué son los lenguajes de programación?
+# ¿Qué son los lenguajes de programación?
 
 Un lenguaje de programación es un medio para comunicarnos con las computadoras. Permite escribir instrucciones que pueden ser entendidas y ejecutadas por la máquina. Los lenguajes de programación pueden dividirse 
 en dos tipos principales:
