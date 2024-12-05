@@ -19,4 +19,4 @@ No, para nada. De hecho, tiene precisamente el titulo de "Guía de Python para t
 
 Python es un lenguaje de programación muy útil, y sus aplicaciones prácticas son muy buscadas en empresas alrededor del mundo. Así que, ¿a qué esperas? ¡A picar código!
 
-<img src="./img/python.png alt="la_piton">
+<img src="python-logo-only.png" alt="la_piton">
